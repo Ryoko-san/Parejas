@@ -15,11 +15,11 @@ export class Home extends React.Component {
 				<Navbar />
 				<div className="text-center mt-5">
 					<div className="col-md-10">
-						<div class="col-md-12 offset-md-1">
+						<div className="col-md-12 offset-md-1">
 							<Jumbotron />
 						</div>
 					</div>
-					<div class="col-md-12 offset-md-2">
+					<div className="col-md-12 offset-md-2">
 						<div className="row">
 							<div className="col-md-2 mb-3">
 								<Card />
